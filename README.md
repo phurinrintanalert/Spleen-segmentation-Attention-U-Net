@@ -21,7 +21,7 @@ The project evaluates multiple training configurations on a limited dataset, ult
 
 ## Results 
 
-![Results Table](results_images/performance)
+![Results Table](results_images/performance.png)
 
 ## Segmentation performance visualisation
 
